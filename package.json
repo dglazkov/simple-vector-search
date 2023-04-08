@@ -1,0 +1,25 @@
+{
+  "name": "simple-vector-search",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Messing around with hnswlib et al.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dglazkov/simple-vector-search.git"
+  },
+  "keywords": [],
+  "author": "dglazkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dglazkov/simple-vector-search/issues"
+  },
+  "homepage": "https://github.com/dglazkov/simple-vector-search#readme",
+  "dependencies": {
+    "hnswlib-node": "^1.4.2"
+  }
+}
