@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/dglazkov/simple-vector-search#readme",
   "dependencies": {
+    "duckdb": "^0.7.1",
     "hnswlib-node": "^1.4.2"
   }
 }
